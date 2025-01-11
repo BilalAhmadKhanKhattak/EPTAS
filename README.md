@@ -4,7 +4,7 @@
 ## About EPTAS
 EPTAS (Every Picture Tells A Story) is more than just a tool, it’s a reflection of turning struggles into something productive. Built during a time of mental disturbance, EPTAS stands as a testament to how creativity and passion can help channel emotions into something constructive.
 
-This tool extracts metadata from images, including camera details, timestamps, and GPS information (if available). It's not just about technical utility; it’s about uncovering the hidden stories that every picture holds.
+This tool extracts metadata from images, including camera details, timestamps, etc. It's not just about technical utility; it’s about uncovering the hidden stories that every picture holds.
 
 ##  Features
 - Extracts metadata such as Date, Camera Model, Software, and more.
