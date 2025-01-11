@@ -34,7 +34,9 @@ python EPTAS.py
 
 ## A Note from the Creator
 This project is a piece of me, born out of a small, rough "time interval" in life. If you’re going through something similar, know this: you can always find strength in creating, no matter what the world throws at you. Keep pushing forward.
-
-
 Bilal Ahmad Khan A.K.A Mr. BILRED
+
+
+## Disclaimer
+EPTAS is intended for legal and ethical use only. Users are responsible for ensuring they have permission to extract metadata from images. Misuse of the tool to invade privacy or for any malicious purposes is strictly prohibited. Users themselves, are responsible for their actions.
 
