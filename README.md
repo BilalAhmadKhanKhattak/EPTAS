@@ -20,7 +20,7 @@ As someone who uses programming as a coping mechanism, creating this tool allowe
 ## How To Use
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/EPTAS.git
+git clone https://github.com/BilalAhmadKhanKhattak/EPTAS.git
 ```
 2. Install the required dependencies:
 ```bash
