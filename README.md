@@ -11,6 +11,9 @@ This tool extracts metadata from images, including camera details, timestamps, a
 - Reveals GPS information (maybe yes, maybe no) to trace where the photo was taken.
 - Supports common image formats like .jpg and .png.
 
+## Screenshot
+![Image](https://github.com/BilalAhmadKhanKhattak/EPTAS/blob/main/ScreenshotEptas.png)
+
 ## Why I Created EPTAS
 As someone who uses programming as a coping mechanism, creating this tool allowed me to navigate through stress and anxiety. It’s not perfect, but it’s a reminder that progress, no matter how small, is always worth it
 
